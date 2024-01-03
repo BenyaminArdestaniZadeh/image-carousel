@@ -1,4 +1,4 @@
-export const ImaageData: ImageProps[] = [
+export const ImageData: ImageProps[] = [
   { src: "./image/image-1.jpg", alt: "background-1" },
   { src: "./image/image-2.jpg", alt: "background-2" },
   { src: "./image/image-3.jpg", alt: "background-3" },

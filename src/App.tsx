@@ -1,10 +1,9 @@
 import { Flex } from "@radix-ui/themes";
-import "./App.css";
 import ImageCarousel from "./components/image-carousel/ImageCarousel";
 
 function App() {
   return (
-    <Flex width={"100%"}>
+    <Flex width={"100%"} align={"center"} style={{ height: "inherite" }}>
       <ImageCarousel />
     </Flex>
   );
